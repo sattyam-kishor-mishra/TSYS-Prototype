@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+      "target": "https://1r5sl6s02f.execute-api.ap-south-1.amazonaws.com",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
